@@ -24,6 +24,6 @@ run_analysis.R consits of two functions:
 
 Example usage:
 
->source("run_analysis.R")
->cleaneddata <- clean_data()
->summarizeddata <- summarize_data(cleaneddata)
+>source("run_analysis.R")  
+>cleaneddata <- clean_data()  
+>summarizeddata <- summarize_data(cleaneddata)  
